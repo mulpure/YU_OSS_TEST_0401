@@ -14,5 +14,7 @@ OSS강의 테스트 _ MD파일
 
 # 영남대학교 기계IT대학 
 
+https://www.markdownguide.org/cheat-sheet/
 
+여기 보고 마크다운(md)양식 참고
 
